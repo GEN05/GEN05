@@ -8,5 +8,3 @@ Skills: Java / Spring(boot, mvc, data) / SQL
 - 👯 I’m looking to collaborate on Open source projects 
 - 📫 How to reach me: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='Telegram' height='40'>](https://t.me/gen_05) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='VK' height='40'>](https://vk.com/gen_05) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/GEN05)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](https://codeforces.com/profile/Gen_05) 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=GEN05&show_icons=true)  
-![Profile views](https://gpvc.arturio.dev/GEN05)  
